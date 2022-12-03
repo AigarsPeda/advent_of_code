@@ -1,7 +1,7 @@
 import path from "path";
 import dayOneResults from "./days/dayOne/dayOneResults";
 
-const filePath = path.join(__dirname, "./days/day1/dayOne.txt");
+const filePath = path.join(__dirname, "./days/dayOne/dayOne.txt");
 
 console.log("Hello world!!!!");
 
