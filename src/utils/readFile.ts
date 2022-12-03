@@ -1,5 +1,4 @@
 import fs from "fs";
-import path from "path";
 
 const readFile = async (filePath: string): Promise<string | undefined> => {
   try {
