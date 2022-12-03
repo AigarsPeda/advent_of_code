@@ -1,19 +1,15 @@
 import path from "path";
-import firstThreeElvesCaloriesSum from "./days/day1/firstThreeElvesCalriesSum";
-import getCaloriesPerElf from "./days/day1/getCaloriesPerElf";
-import readFile from "./utils/readFile";
+import dayOneResults from "./days/dayOne/dayOneResults";
 
-const filePath = path.join(__dirname, "./days/day1/day1.txt");
+const filePath = path.join(__dirname, "./days/day1/dayOne.txt");
 
 console.log("Hello world!!!!");
 
 const program = async () => {
-  const data = await readFile(filePath);
-  const elfCalories = getCaloriesPerElf(data || "");
-  const totalCalories = firstThreeElvesCaloriesSum(elfCalories);
+  const { elfWithMostCalories, totalCaloriesForFirstThreeElves } =
+    await dayOneResults(filePath);
 
-  console.log(elfCalories[0]);
-  console.log(totalCalories);
+  console.log(elfWithMostCalories, totalCaloriesForFirstThreeElves);
 };
 
 program();
