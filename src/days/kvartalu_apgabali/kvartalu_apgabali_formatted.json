@@ -1,0 +1,1556 @@
+{
+  "features": [
+    {
+      "attributes": {
+        "OBJECTID": 94,
+        "BLOCKDISTRICTCODE": "402",
+        "BLOCKDISTRICTNAME": "Staiceles",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1432635214000,
+        "SURVEYER": "ALVIS_LEPIKSONS"
+      },
+      "bbox": [
+        24.576974196473536,
+        57.726532559885534,
+        24.89383479153127,
+        57.99045063577991
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 95,
+        "BLOCKDISTRICTCODE": "403",
+        "BLOCKDISTRICTNAME": "Mazsalacas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1550058770000,
+        "SURVEYER": "ALVIS_LEPIKSONS"
+      },
+      "bbox": [
+        24.833968443956586,
+        57.65339203102372,
+        25.289863253738382,
+        58.085568779059166
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2,
+        "BLOCKDISTRICTCODE": "313",
+        "BLOCKDISTRICTNAME": "Silenes",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1673949929000,
+        "SURVEYER": "AINARAKOKINA"
+      },
+      "bbox": [
+        26.546713816991122,
+        55.67468136474895,
+        27.36706007982886,
+        55.895718080356026
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3,
+        "BLOCKDISTRICTCODE": "312",
+        "BLOCKDISTRICTNAME": "Sventes",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1513682408000,
+        "SURVEYER": "AINARA_KOKINA"
+      },
+      "bbox": [
+        26.160929859181905,
+        55.67670014472443,
+        26.948239192773254,
+        55.988527289287205
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5769,
+        "BLOCKDISTRICTCODE": "809",
+        "BLOCKDISTRICTNAME": "Rēzeknes",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1470833069000,
+        "SURVEYER": "INESE_APSENIECE"
+      },
+      "bbox": [
+        26.893029828826926,
+        56.17117464369127,
+        27.723194594413123,
+        56.70496863848548
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 18,
+        "BLOCKDISTRICTCODE": "506",
+        "BLOCKDISTRICTNAME": "Jaunjelgavas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1701705216000,
+        "SURVEYER": "ANTRAEIHENBERGA"
+      },
+      "bbox": [
+        24.941767623961038,
+        56.410416970058684,
+        25.237213481928357,
+        56.62262090178252
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 80,
+        "BLOCKDISTRICTCODE": "706",
+        "BLOCKDISTRICTNAME": "Raķupes",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1579522459000,
+        "SURVEYER": "VINETAUDRE"
+      },
+      "bbox": [
+        22.162821764563063,
+        57.262840253269346,
+        22.591544850888766,
+        57.56590386617413
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 77,
+        "BLOCKDISTRICTCODE": "705",
+        "BLOCKDISTRICTNAME": "Purvienas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1619624599000,
+        "SURVEYER": "MAIRAREMESA"
+      },
+      "bbox": [
+        21.95055088197218,
+        57.219780120934,
+        22.31246231512463,
+        57.45019480506188
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 22,
+        "BLOCKDISTRICTCODE": "507",
+        "BLOCKDISTRICTNAME": "Seces",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1679492960000,
+        "SURVEYER": "EDGARSGRIKIS"
+      },
+      "bbox": [
+        25.101829258393103,
+        56.38371152731392,
+        25.609625905529402,
+        56.63565697804391
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 91,
+        "BLOCKDISTRICTCODE": "401",
+        "BLOCKDISTRICTNAME": "Salacgrīvas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1432635214000,
+        "SURVEYER": "ALVIS_LEPIKSONS"
+      },
+      "bbox": [
+        24.33276269519027,
+        57.6849965045401,
+        24.758606883963598,
+        57.956753840394455
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5767,
+        "BLOCKDISTRICTCODE": "801",
+        "BLOCKDISTRICTNAME": "Madonas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1620294858000,
+        "SURVEYER": "INESEAPSENIECE"
+      },
+      "bbox": [
+        25.817418009016293,
+        56.585261242662305,
+        26.56696284588091,
+        57.10206569769267
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5766,
+        "BLOCKDISTRICTCODE": "806",
+        "BLOCKDISTRICTNAME": "Viļakas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1530269451000,
+        "SURVEYER": "INESE_APSENIECE"
+      },
+      "bbox": [
+        27.31047358328062,
+        56.99356262319598,
+        27.8704231028725,
+        57.30329487145736
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5762,
+        "BLOCKDISTRICTCODE": "812",
+        "BLOCKDISTRICTNAME": "Zilupes",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1530704110000,
+        "SURVEYER": "INESE_APSENIECE"
+      },
+      "bbox": [
+        27.671866448343778,
+        56.11520683114655,
+        28.241494003295198,
+        56.55212552077302
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1,
+        "BLOCKDISTRICTCODE": "106",
+        "BLOCKDISTRICTNAME": "Melnupes",
+        "LASTCHANGEAPP": null,
+        "LASTCHANGEDATE": null,
+        "SURVEYER": null
+      },
+      "bbox": [
+        26.467090453390067,
+        57.30372795583054,
+        27.050583664098102,
+        57.587696802379185
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 10,
+        "BLOCKDISTRICTCODE": "304",
+        "BLOCKDISTRICTNAME": "Zasas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1673540411000,
+        "SURVEYER": "VINETAUDRE"
+      },
+      "bbox": [
+        25.62831392679602,
+        56.16171389124018,
+        26.202974992747915,
+        56.40672159600869
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5764,
+        "BLOCKDISTRICTCODE": "804",
+        "BLOCKDISTRICTNAME": "Žīguru",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1556209399000,
+        "SURVEYER": "INESE_APSENIECE"
+      },
+      "bbox": [
+        27.264023027151314,
+        57.14805509376817,
+        27.847886621125937,
+        57.39882142444165
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 11,
+        "BLOCKDISTRICTCODE": "303",
+        "BLOCKDISTRICTNAME": "Viesītes",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1679492963000,
+        "SURVEYER": "EDGARSGRIKIS"
+      },
+      "bbox": [
+        25.29321950664975,
+        56.134413719829624,
+        25.741653491599823,
+        56.45246847556446
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 88,
+        "BLOCKDISTRICTCODE": "405",
+        "BLOCKDISTRICTNAME": "Piejūras",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1589985766000,
+        "SURVEYER": "ALVISLEPIKSONS"
+      },
+      "bbox": [
+        24.358108196341767,
+        57.22144892673034,
+        24.9122760646066,
+        57.72426454816535
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 68,
+        "BLOCKDISTRICTCODE": "408",
+        "BLOCKDISTRICTNAME": "Grīvas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1489594584000,
+        "SURVEYER": "ALVIS_LEPIKSONS"
+      },
+      "bbox": [
+        24.18602610672435,
+        57.05784019389752,
+        24.921869804169777,
+        57.3502826567964
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 28,
+        "BLOCKDISTRICTCODE": "606",
+        "BLOCKDISTRICTNAME": "Īles",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1737022796000,
+        "SURVEYER": "ARITAAPSE"
+      },
+      "bbox": [
+        22.58407606064041,
+        56.3515789219916,
+        23.104675065618743,
+        56.654701851458036
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 37,
+        "BLOCKDISTRICTCODE": "208",
+        "BLOCKDISTRICTNAME": "Remtes",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1736948633000,
+        "SURVEYER": "LIENEROZITE"
+      },
+      "bbox": [
+        22.53475869510143,
+        56.56365677167446,
+        22.865986613178805,
+        56.81329098671351
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 13,
+        "BLOCKDISTRICTCODE": "510",
+        "BLOCKDISTRICTNAME": "Ērberģes",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1701705216000,
+        "SURVEYER": "ANTRAEIHENBERGA"
+      },
+      "bbox": [
+        24.68358429809859,
+        56.26456223046959,
+        25.130021693146354,
+        56.545534207859475
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 15,
+        "BLOCKDISTRICTCODE": "305",
+        "BLOCKDISTRICTNAME": "Ābeļu",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1686326785000,
+        "SURVEYER": "AINARAKOKINA"
+      },
+      "bbox": [
+        25.77216721927464,
+        56.24587996755127,
+        26.202252116021658,
+        56.521236323498364
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 16,
+        "BLOCKDISTRICTCODE": "509",
+        "BLOCKDISTRICTNAME": "Bauskas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1697728637000,
+        "SURVEYER": "ANTRAEIHENBERGA"
+      },
+      "bbox": [
+        23.827934020539367,
+        56.24890302936901,
+        24.583288308964484,
+        56.55242340117359
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 23,
+        "BLOCKDISTRICTCODE": "301",
+        "BLOCKDISTRICTNAME": "Sēlpils",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1608204046000,
+        "SURVEYER": "VINETAUDRE"
+      },
+      "bbox": [
+        25.545030416964174,
+        56.34194631292261,
+        25.84501331172718,
+        56.61582151389334
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 24,
+        "BLOCKDISTRICTCODE": "505",
+        "BLOCKDISTRICTNAME": "Skaistkalnes",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1701705137000,
+        "SURVEYER": "ANTRAEIHENBERGA"
+      },
+      "bbox": [
+        24.228797233321853,
+        56.315159660489336,
+        24.968083813662762,
+        56.644443417127476
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 29,
+        "BLOCKDISTRICTCODE": "504",
+        "BLOCKDISTRICTNAME": "Birzgales",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1737037667000,
+        "SURVEYER": "LIENEROZITE"
+      },
+      "bbox": [
+        24.429853218628608,
+        56.536096466219625,
+        24.89986668502316,
+        56.78920921713727
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 30,
+        "BLOCKDISTRICTCODE": "211",
+        "BLOCKDISTRICTNAME": "Pampāļu",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1727441242000,
+        "SURVEYER": "IMANTSSERMOLS"
+      },
+      "bbox": [
+        21.939222844687198,
+        56.395315532485284,
+        22.570642221891575,
+        56.69721939819222
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 32,
+        "BLOCKDISTRICTCODE": "508",
+        "BLOCKDISTRICTNAME": "Vecumnieku",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1737038833000,
+        "SURVEYER": "LIENEROZITE"
+      },
+      "bbox": [
+        24.000998664102497,
+        56.50775967416427,
+        24.555187669332934,
+        56.74634928915678
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 50,
+        "BLOCKDISTRICTCODE": "603",
+        "BLOCKDISTRICTNAME": "Tukuma",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1736417935000,
+        "SURVEYER": "ARITAAPSE"
+      },
+      "bbox": [
+        22.681123468333407,
+        56.77628195865816,
+        23.363535195195112,
+        57.06439060771841
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 52,
+        "BLOCKDISTRICTCODE": "503",
+        "BLOCKDISTRICTNAME": "Kokneses",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1638463042000,
+        "SURVEYER": "LINDAMOZEIKA"
+      },
+      "bbox": [
+        25.245488796401496,
+        56.571686888396385,
+        25.98163785385955,
+        57.041239194888156
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 51,
+        "BLOCKDISTRICTCODE": "201",
+        "BLOCKDISTRICTNAME": "Alsungas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1636454700000,
+        "SURVEYER": "VINETAUDRE"
+      },
+      "bbox": [
+        21.39422874899627,
+        56.83769574871586,
+        22.002362731812493,
+        57.122747460085215
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5768,
+        "BLOCKDISTRICTCODE": "803",
+        "BLOCKDISTRICTNAME": "Klanu",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1626102536000,
+        "SURVEYER": "INESEAPSENIECE"
+      },
+      "bbox": [
+        26.305022037386962,
+        56.534882556121225,
+        26.991629276047078,
+        56.93756391966558
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5763,
+        "BLOCKDISTRICTCODE": "802",
+        "BLOCKDISTRICTNAME": "Lubānas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1626102536000,
+        "SURVEYER": "INESEAPSENIECE"
+      },
+      "bbox": [
+        26.374467337742182,
+        56.795879091766516,
+        26.9215622751053,
+        57.03254334293556
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 75,
+        "BLOCKDISTRICTCODE": "411",
+        "BLOCKDISTRICTNAME": "Bērzkroga",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1550059834000,
+        "SURVEYER": "ALVIS_LEPIKSONS"
+      },
+      "bbox": [
+        25.03473399902881,
+        56.99639499560359,
+        25.76944692281979,
+        57.46958579515193
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 58,
+        "BLOCKDISTRICTCODE": "602",
+        "BLOCKDISTRICTNAME": "Kandavas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1736416764000,
+        "SURVEYER": "ARITAAPSE"
+      },
+      "bbox": [
+        22.442702621298213,
+        56.80779163907278,
+        22.963291472096305,
+        57.14550972614916
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 79,
+        "BLOCKDISTRICTCODE": "104",
+        "BLOCKDISTRICTNAME": "Silvas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1516376132000,
+        "SURVEYER": "VINETA_TIMMA"
+      },
+      "bbox": [
+        25.60574484418326,
+        57.245109546626594,
+        26.311493912227114,
+        57.5555945021184
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 93,
+        "BLOCKDISTRICTCODE": "101",
+        "BLOCKDISTRICTNAME": "Ērģemes",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1686139776000,
+        "SURVEYER": "VINETAUDRE"
+      },
+      "bbox": [
+        25.476200415903744,
+        57.706591809900914,
+        26.05887816085703,
+        57.92415630740369
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 61,
+        "BLOCKDISTRICTCODE": "111",
+        "BLOCKDISTRICTNAME": "Pededzes",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1703781055000,
+        "SURVEYER": "ELITAAUGSTARE"
+      },
+      "bbox": [
+        26.46120409009054,
+        56.96327384995396,
+        27.06487653966238,
+        57.20945065819786
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 62,
+        "BLOCKDISTRICTCODE": "601",
+        "BLOCKDISTRICTNAME": "Engures",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1736417522000,
+        "SURVEYER": "ARITAAPSE"
+      },
+      "bbox": [
+        22.82491017078519,
+        56.946287461148955,
+        23.379729604942572,
+        57.31624777322282
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5770,
+        "BLOCKDISTRICTCODE": "808",
+        "BLOCKDISTRICTNAME": "Gaigalavas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1421423211000,
+        "SURVEYER": "IVARS_SENKANS"
+      },
+      "bbox": [
+        26.722784241320035,
+        56.454482580682175,
+        27.335539084478775,
+        56.83081634843681
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 65,
+        "BLOCKDISTRICTCODE": "711",
+        "BLOCKDISTRICTNAME": "Vanemas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1736416800000,
+        "SURVEYER": "ARITAAPSE"
+      },
+      "bbox": [
+        22.17886278123218,
+        57.09522434902896,
+        22.95046079943627,
+        57.31724178549018
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 72,
+        "BLOCKDISTRICTCODE": "708",
+        "BLOCKDISTRICTNAME": "Ventas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1579522444000,
+        "SURVEYER": "VINETAUDRE"
+      },
+      "bbox": [
+        21.33368715727228,
+        56.93883851513988,
+        21.78135495928825,
+        57.3919531556354
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 96,
+        "BLOCKDISTRICTCODE": "404",
+        "BLOCKDISTRICTNAME": "Rūjienas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1550058730000,
+        "SURVEYER": "ALVIS_LEPIKSONS"
+      },
+      "bbox": [
+        25.125037349866837,
+        57.78006304456877,
+        25.703297552270445,
+        58.08162388330846
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 8,
+        "BLOCKDISTRICTCODE": "311",
+        "BLOCKDISTRICTNAME": "Krāslavas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1499431364000,
+        "SURVEYER": "AINARA_KOKINA"
+      },
+      "bbox": [
+        26.928135917291876,
+        55.78424011587033,
+        27.972048493201406,
+        56.26169754830691
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5772,
+        "BLOCKDISTRICTCODE": "811",
+        "BLOCKDISTRICTNAME": "Ludzas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1530704220000,
+        "SURVEYER": "INESE_APSENIECE"
+      },
+      "bbox": [
+        27.48591352185774,
+        56.29210528396367,
+        28.143573919598737,
+        56.74572170818699
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4,
+        "BLOCKDISTRICTCODE": "310",
+        "BLOCKDISTRICTNAME": "Kalupes",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1673540808000,
+        "SURVEYER": "VINETAUDRE"
+      },
+      "bbox": [
+        26.406284411740728,
+        55.859978525093176,
+        26.973426301763542,
+        56.16809409878361
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 45,
+        "BLOCKDISTRICTCODE": "203",
+        "BLOCKDISTRICTNAME": "Akmensraga",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1668082918000,
+        "SURVEYER": "VINETAUDRE"
+      },
+      "bbox": [
+        21.02583351278635,
+        56.55693772099223,
+        21.527437500614752,
+        56.97562357757487
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 74,
+        "BLOCKDISTRICTCODE": "712",
+        "BLOCKDISTRICTNAME": "Mērsraga",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1736936822000,
+        "SURVEYER": "VINETAUDRE"
+      },
+      "bbox": [
+        22.682170223948432,
+        57.16069345579759,
+        23.146908602983512,
+        57.42068708077714
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5771,
+        "BLOCKDISTRICTCODE": "810",
+        "BLOCKDISTRICTNAME": "Kārsavas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1562256557000,
+        "SURVEYER": "INESEAPSENIECE"
+      },
+      "bbox": [
+        27.234925480746874,
+        56.613188504984876,
+        27.977729126690633,
+        56.87940984134681
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 76,
+        "BLOCKDISTRICTCODE": "110",
+        "BLOCKDISTRICTNAME": "Lejasciema",
+        "LASTCHANGEAPP": null,
+        "LASTCHANGEDATE": null,
+        "SURVEYER": null
+      },
+      "bbox": [
+        26.34211164453128,
+        57.106772508076034,
+        26.867644616135777,
+        57.4090133093757
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78,
+        "BLOCKDISTRICTCODE": "707",
+        "BLOCKDISTRICTNAME": "Lingas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1736936810000,
+        "SURVEYER": "VINETAUDRE"
+      },
+      "bbox": [
+        22.5230848952901,
+        57.227923477518544,
+        22.938740155754626,
+        57.5334113251922
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5,
+        "BLOCKDISTRICTCODE": "309",
+        "BLOCKDISTRICTNAME": "Nīcgales",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1673539930000,
+        "SURVEYER": "VINETAUDRE"
+      },
+      "bbox": [
+        26.163709755656065,
+        55.89942872834087,
+        26.643515577769303,
+        56.34684428219871
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 82,
+        "BLOCKDISTRICTCODE": "105",
+        "BLOCKDISTRICTNAME": "Sikšņu",
+        "LASTCHANGEAPP": null,
+        "LASTCHANGEDATE": null,
+        "SURVEYER": null
+      },
+      "bbox": [
+        26.102288980516025,
+        57.31597774956849,
+        26.53384620023275,
+        57.58405762961061
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 83,
+        "BLOCKDISTRICTCODE": "703",
+        "BLOCKDISTRICTNAME": "Zilokalnu",
+        "LASTCHANGEAPP": null,
+        "LASTCHANGEDATE": null,
+        "SURVEYER": null
+      },
+      "bbox": [
+        22.19601636456455,
+        57.42373073336578,
+        22.735641501719062,
+        57.75887148051115
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 84,
+        "BLOCKDISTRICTCODE": "107",
+        "BLOCKDISTRICTNAME": "Lāzberģa",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1556617325000,
+        "SURVEYER": "ILZE_KRIEVANE"
+      },
+      "bbox": [
+        26.83537192247414,
+        57.34257397353059,
+        27.6433954878683,
+        57.633316716976054
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 86,
+        "BLOCKDISTRICTCODE": "701",
+        "BLOCKDISTRICTNAME": "Ventirbes",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1639410867000,
+        "SURVEYER": "MAIRAREMESA"
+      },
+      "bbox": [
+        21.524325785408095,
+        57.29712634952302,
+        22.146724584099626,
+        57.644481468004685
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 87,
+        "BLOCKDISTRICTCODE": "103",
+        "BLOCKDISTRICTNAME": "Ezeru",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1686139763000,
+        "SURVEYER": "VINETAUDRE"
+      },
+      "bbox": [
+        25.85223367328573,
+        57.52744755977388,
+        26.36540511858982,
+        57.76696807388907
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 54,
+        "BLOCKDISTRICTCODE": "410",
+        "BLOCKDISTRICTNAME": "Vēru",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1699284358000,
+        "SURVEYER": "ANTRAEIHENBERGA"
+      },
+      "bbox": [
+        24.786977077085506,
+        56.922896467940284,
+        25.46468588282096,
+        57.16394745640013
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 49,
+        "BLOCKDISTRICTCODE": "502",
+        "BLOCKDISTRICTNAME": "Madlienas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1700046331000,
+        "SURVEYER": "ANTRAEIHENBERGA"
+      },
+      "bbox": [
+        25.012405418354277,
+        56.57518071559919,
+        25.550535111860963,
+        56.997381642593865
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 97,
+        "BLOCKDISTRICTCODE": "501",
+        "BLOCKDISTRICTNAME": "Ogres",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1700046331000,
+        "SURVEYER": "ANTRAEIHENBERGA"
+      },
+      "bbox": [
+        24.43258672278687,
+        56.60440004571691,
+        25.113412638410733,
+        56.94746122535193
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 63,
+        "BLOCKDISTRICTCODE": "713",
+        "BLOCKDISTRICTNAME": "Usmas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1619624598000,
+        "SURVEYER": "MAIRAREMESA"
+      },
+      "bbox": [
+        21.74657404449297,
+        57.08089637316082,
+        22.224153200683357,
+        57.25673682181969
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 19,
+        "BLOCKDISTRICTCODE": "302",
+        "BLOCKDISTRICTNAME": "Krustpils",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1682614414000,
+        "SURVEYER": "VINETAUDRE"
+      },
+      "bbox": [
+        25.73566014599271,
+        56.37723626482109,
+        26.82539194977333,
+        56.6654074798029
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 48,
+        "BLOCKDISTRICTCODE": "609",
+        "BLOCKDISTRICTNAME": "Klīves",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1737033284000,
+        "SURVEYER": "LIENEROZITE"
+      },
+      "bbox": [
+        23.253617365600423,
+        56.68582903884561,
+        24.234704309979406,
+        57.06688425616199
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 35,
+        "BLOCKDISTRICTCODE": "610",
+        "BLOCKDISTRICTNAME": "Garozas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1737033107000,
+        "SURVEYER": "LIENEROZITE"
+      },
+      "bbox": [
+        23.680729463795902,
+        56.5985358836082,
+        24.117236082955355,
+        56.77318439813307
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 89,
+        "BLOCKDISTRICTCODE": "102",
+        "BLOCKDISTRICTNAME": "Strenču",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1686056978000,
+        "SURVEYER": "VINETAUDRE"
+      },
+      "bbox": [
+        25.476569385427148,
+        57.53432004989853,
+        26.003351016780893,
+        57.757100092426555
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 6,
+        "BLOCKDISTRICTCODE": "308",
+        "BLOCKDISTRICTNAME": "Dvietes",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1673540509000,
+        "SURVEYER": "VINETAUDRE"
+      },
+      "bbox": [
+        25.8204305401796,
+        55.87176283498431,
+        26.3792194131499,
+        56.17226967199155
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3525,
+        "BLOCKDISTRICTCODE": "407",
+        "BLOCKDISTRICTNAME": "Valmieras",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1697116651000,
+        "SURVEYER": "ALVISLEPIKSONS"
+      },
+      "bbox": [
+        24.785124297765122,
+        57.294957316681504,
+        25.682308085820097,
+        57.79206071262425
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 18881,
+        "BLOCKDISTRICTCODE": "204",
+        "BLOCKDISTRICTNAME": "Apriķu",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1737478726000,
+        "SURVEYER": "IMANTSSERMOLS"
+      },
+      "bbox": [
+        21.331848406220228,
+        56.55096346347945,
+        21.83468036181486,
+        56.91422257379925
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 18882,
+        "BLOCKDISTRICTCODE": "210",
+        "BLOCKDISTRICTNAME": "Krīvukalna",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1737478727000,
+        "SURVEYER": "IMANTSSERMOLS"
+      },
+      "bbox": [
+        21.351002552970737,
+        56.28882992704681,
+        22.01167608220487,
+        56.57497105981126
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 39,
+        "BLOCKDISTRICTCODE": "604",
+        "BLOCKDISTRICTNAME": "Misas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1737038833000,
+        "SURVEYER": "LIENEROZITE"
+      },
+      "bbox": [
+        24.10053550602006,
+        56.66394200181305,
+        24.61381596777007,
+        56.91005884419085
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 14,
+        "BLOCKDISTRICTCODE": "306",
+        "BLOCKDISTRICTNAME": "Preiļu",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1682614452000,
+        "SURVEYER": "VINETAUDRE"
+      },
+      "bbox": [
+        26.082055980186286,
+        56.05772114120948,
+        27.144088873303467,
+        56.52173500047661
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 59,
+        "BLOCKDISTRICTCODE": "202",
+        "BLOCKDISTRICTNAME": "Rendas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1727877482000,
+        "SURVEYER": "ARITAAPSE"
+      },
+      "bbox": [
+        21.89223452625488,
+        56.94261563063328,
+        22.504341314277166,
+        57.18598381926624
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 69,
+        "BLOCKDISTRICTCODE": "109",
+        "BLOCKDISTRICTNAME": "Pārgaujas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1590683588000,
+        "SURVEYER": "VINETAUDRE"
+      },
+      "bbox": [
+        25.996216903175924,
+        57.042454232108305,
+        26.50141572222025,
+        57.32954917643312
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 25,
+        "BLOCKDISTRICTCODE": "611",
+        "BLOCKDISTRICTNAME": "Svirlaukas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1728300468000,
+        "SURVEYER": "ARITAAPSE"
+      },
+      "bbox": [
+        23.392464250150372,
+        56.320517816166955,
+        24.122966030389826,
+        56.644927844702984
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 43,
+        "BLOCKDISTRICTCODE": "207",
+        "BLOCKDISTRICTNAME": "Dūrupes",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1736416532000,
+        "SURVEYER": "ARITAAPSE"
+      },
+      "bbox": [
+        22.074139433004472,
+        56.64785043856116,
+        22.647086053923378,
+        56.95298414517274
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 7681,
+        "BLOCKDISTRICTCODE": "608",
+        "BLOCKDISTRICTNAME": "Līvbērzes",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1737022620000,
+        "SURVEYER": "ARITAAPSE"
+      },
+      "bbox": [
+        23.29185375651675,
+        56.577476411020925,
+        23.799571462281577,
+        56.893093735611515
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 85,
+        "BLOCKDISTRICTCODE": "702",
+        "BLOCKDISTRICTNAME": "Grīņu",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1579262107000,
+        "SURVEYER": "VINETAUDRE"
+      },
+      "bbox": [
+        22.0026287482788,
+        57.384870744540216,
+        22.25649722728968,
+        57.656988969498066
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 66,
+        "BLOCKDISTRICTCODE": "709",
+        "BLOCKDISTRICTNAME": "Zūru",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1579179361000,
+        "SURVEYER": "VINETAUDRE"
+      },
+      "bbox": [
+        21.57227250545726,
+        57.16319849779305,
+        21.90206394068459,
+        57.33171095290698
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 67,
+        "BLOCKDISTRICTCODE": "710",
+        "BLOCKDISTRICTNAME": "Mētru",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1579256297000,
+        "SURVEYER": "VINETAUDRE"
+      },
+      "bbox": [
+        21.82150636942579,
+        57.184614371679835,
+        22.09229628398975,
+        57.363553827418215
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 92,
+        "BLOCKDISTRICTCODE": "406",
+        "BLOCKDISTRICTNAME": "Limbažu",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1697116651000,
+        "SURVEYER": "ALVISLEPIKSONS"
+      },
+      "bbox": [
+        24.509881950826884,
+        57.410182766809825,
+        25.099994673457505,
+        57.853196038275094
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 71,
+        "BLOCKDISTRICTCODE": "108",
+        "BLOCKDISTRICTNAME": "Mālupes",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1703781335000,
+        "SURVEYER": "ELITAAUGSTARE"
+      },
+      "bbox": [
+        26.78735442690774,
+        57.12171376406317,
+        27.394806856875665,
+        57.394388553397
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5765,
+        "BLOCKDISTRICTCODE": "805",
+        "BLOCKDISTRICTNAME": "Balvu",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1703781335000,
+        "SURVEYER": "ELITAAUGSTARE"
+      },
+      "bbox": [
+        26.85639706125127,
+        56.82819610567057,
+        27.49939025467747,
+        57.25295841577784
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 64,
+        "BLOCKDISTRICTCODE": "412",
+        "BLOCKDISTRICTNAME": "Piebalgas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1590683573000,
+        "SURVEYER": "VINETAUDRE"
+      },
+      "bbox": [
+        25.551822067667402,
+        56.92845264269467,
+        26.166185880681986,
+        57.28535446101948
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 36,
+        "BLOCKDISTRICTCODE": "605",
+        "BLOCKDISTRICTNAME": "Dobeles",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1737022786000,
+        "SURVEYER": "ARITAAPSE"
+      },
+      "bbox": [
+        22.76089322386127,
+        56.50288361619461,
+        23.497692044790615,
+        56.81259914910054
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 60,
+        "BLOCKDISTRICTCODE": "714",
+        "BLOCKDISTRICTNAME": "Abavas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1736416659000,
+        "SURVEYER": "ARITAAPSE"
+      },
+      "bbox": [
+        22.22555340652451,
+        57.00383746386393,
+        22.648685361118638,
+        57.194958875697175
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 20,
+        "BLOCKDISTRICTCODE": "607",
+        "BLOCKDISTRICTNAME": "Tērvetes",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1737023227000,
+        "SURVEYER": "LIENEROZITE"
+      },
+      "bbox": [
+        22.7472851718114,
+        56.30463833150543,
+        23.703458731184714,
+        56.68150769124816
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5761,
+        "BLOCKDISTRICTCODE": "807",
+        "BLOCKDISTRICTNAME": "Baltinavas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1579165787000,
+        "SURVEYER": "VINETAUDRE"
+      },
+      "bbox": [
+        26.92548398172089,
+        56.780439361286405,
+        27.768513480624073,
+        57.04361758094313
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 9,
+        "BLOCKDISTRICTCODE": "511",
+        "BLOCKDISTRICTNAME": "Zalves",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1621611442000,
+        "SURVEYER": "VINETAUDRE"
+      },
+      "bbox": [
+        25.054942500225565,
+        56.144925032117364,
+        25.41602589207159,
+        56.398930563856304
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 56,
+        "BLOCKDISTRICTCODE": "409",
+        "BLOCKDISTRICTNAME": "Ropažu",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1737033284000,
+        "SURVEYER": "LIENEROZITE"
+      },
+      "bbox": [
+        24.01230534466398,
+        56.83549614260003,
+        24.987931512773724,
+        57.16672555250031
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 17921,
+        "BLOCKDISTRICTCODE": "205",
+        "BLOCKDISTRICTNAME": "Raņķu",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1737372044000,
+        "SURVEYER": "IMANTSSERMOLS"
+      },
+      "bbox": [
+        21.597961624012786,
+        56.49759960976168,
+        22.075340378987043,
+        56.99072495356969
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 18561,
+        "BLOCKDISTRICTCODE": "209",
+        "BLOCKDISTRICTNAME": "Grobiņas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1736938551000,
+        "SURVEYER": "VINETAUDRE"
+      },
+      "bbox": [
+        20.975998735415534,
+        56.326128570428786,
+        21.52781936402304,
+        56.665910057954314
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 10561,
+        "BLOCKDISTRICTCODE": "704",
+        "BLOCKDISTRICTNAME": "Rindas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1639410867000,
+        "SURVEYER": "MAIRAREMESA"
+      },
+      "bbox": [
+        21.63507398811131,
+        57.314132322078535,
+        22.099684892479463,
+        57.598803624360954
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 18242,
+        "BLOCKDISTRICTCODE": "212",
+        "BLOCKDISTRICTNAME": "Zvārdes",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1736948500000,
+        "SURVEYER": "LIENEROZITE"
+      },
+      "bbox": [
+        22.181217915735136,
+        56.38229978239771,
+        22.746813072871454,
+        56.62681659282445
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 10216,
+        "BLOCKDISTRICTCODE": "307",
+        "BLOCKDISTRICTNAME": "Aknīstes",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1673540343000,
+        "SURVEYER": "VINETAUDRE"
+      },
+      "bbox": [
+        25.640895608771178,
+        56.05200236145542,
+        26.336887445409776,
+        56.23028699259599
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 11841,
+        "BLOCKDISTRICTCODE": "206",
+        "BLOCKDISTRICTNAME": "Ventas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1581516364000,
+        "SURVEYER": "VINETAUDRE"
+      },
+      "bbox": [
+        21.976087036870727,
+        56.55496427012024,
+        22.352019779060488,
+        57.00831662010546
+      ]
+    },
+    {
+      "attributes": {
+        "OBJECTID": 13442,
+        "BLOCKDISTRICTCODE": "213",
+        "BLOCKDISTRICTNAME": "Nīcas",
+        "LASTCHANGEAPP": 3,
+        "LASTCHANGEDATE": 1736938557000,
+        "SURVEYER": "VINETAUDRE"
+      },
+      "bbox": [
+        20.970678687006348,
+        56.06915996463049,
+        21.491682984541676,
+        56.478885495714465
+      ]
+    }
+  ]
+}
