@@ -20,20 +20,19 @@ const program = async () => {
   const jsonData = JSON.parse(data || "");
 
   const newData = jsonData.features.map((feature: any) => {
-    const { geometry, ...rest } = feature;
+    const { geometry, attributes, ...rest } = feature;
     const [minX, minY, maxX, maxY] = bbox({
       type: "Polygon",
       coordinates: geometry.rings,
     });
     return {
-      ...rest,
+      // ...rest,
+      OBJECTID: attributes.OBJECTID,
+      CODE: attributes.CODE,
       bbox: [minX, minY, maxX, maxY],
     };
   });
-  await writeFile(
-    outputFilePath,
-    JSON.stringify({ features: newData }, null, 2)
-  );
+  await writeFile(outputFilePath, JSON.stringify(newData, null, 2));
   console.log("newData", newData);
 };
 

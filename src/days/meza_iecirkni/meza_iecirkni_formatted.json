@@ -1,956 +1,750 @@
-{
-  "features": [
-    {
-      "attributes": {
-        "OBJECTID": 1601,
-        "LVM_DISTRICT_CODE": "22827",
-        "LVM_DISTRICT_NAME": "Ludzas",
-        "LVM_FORESTRY_CODE": "8",
-        "DISTRICTAREA": null,
-        "MANAGER": "2185"
-      },
-      "bbox": [
-        27.48591352185774, 56.11520683114655, 28.241494003295198,
-        56.738633624838954
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1602,
-        "LVM_DISTRICT_CODE": "22825",
-        "LVM_DISTRICT_NAME": "Rēzeknes",
-        "LVM_FORESTRY_CODE": "8",
-        "DISTRICTAREA": null,
-        "MANAGER": "3065"
-      },
-      "bbox": [
-        26.7694451005907, 56.17117464458843, 27.723194594413123,
-        56.83081634843681
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1603,
-        "LVM_DISTRICT_CODE": "22822",
-        "LVM_DISTRICT_NAME": "Lubānas",
-        "LVM_FORESTRY_CODE": "8",
-        "DISTRICTAREA": null,
-        "MANAGER": "1877"
-      },
-      "bbox": [
-        26.374467336102068, 56.795879091800174, 26.991629276047078,
-        57.03254334296882
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1604,
-        "LVM_DISTRICT_CODE": "22826",
-        "LVM_DISTRICT_NAME": "Kārsavas",
-        "LVM_FORESTRY_CODE": "8",
-        "DISTRICTAREA": null,
-        "MANAGER": "5489"
-      },
-      "bbox": [
-        26.92548398172089, 56.613188504984876, 27.977729126690633,
-        57.10532283227533
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1605,
-        "LVM_DISTRICT_CODE": "22821",
-        "LVM_DISTRICT_NAME": "Madonas",
-        "LVM_FORESTRY_CODE": "8",
-        "DISTRICTAREA": null,
-        "MANAGER": "2073"
-      },
-      "bbox": [
-        25.817418009016293, 56.534882556121225, 26.923776396079102,
-        57.10206569769267
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1606,
-        "LVM_DISTRICT_CODE": "22824",
-        "LVM_DISTRICT_NAME": "Balvu",
-        "LVM_FORESTRY_CODE": "8",
-        "DISTRICTAREA": null,
-        "MANAGER": "3593"
-      },
-      "bbox": [
-        26.81567395214223, 56.82819610567057, 27.589082466584227,
-        57.25295841573509
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1607,
-        "LVM_DISTRICT_CODE": "22823",
-        "LVM_DISTRICT_NAME": "Žīguru",
-        "LVM_FORESTRY_CODE": "8",
-        "DISTRICTAREA": null,
-        "MANAGER": "1568"
-      },
-      "bbox": [
-        27.264024939044234, 57.07979078012789, 27.8704231028725,
-        57.39893862599754
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1609,
-        "LVM_DISTRICT_CODE": "22126",
-        "LVM_DISTRICT_NAME": "Mālupes",
-        "LVM_FORESTRY_CODE": "1",
-        "DISTRICTAREA": null,
-        "MANAGER": "0126"
-      },
-      "bbox": [
-        26.968025667157892, 57.178140681727655, 27.6433954878683,
-        57.554667776776185
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1610,
-        "LVM_DISTRICT_CODE": "22726",
-        "LVM_DISTRICT_NAME": "Mētru",
-        "LVM_FORESTRY_CODE": "7",
-        "DISTRICTAREA": null,
-        "MANAGER": "5496"
-      },
-      "bbox": [
-        21.517731689249175, 57.21965616068898, 22.002624289234618,
-        57.525711365142364
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1614,
-        "LVM_DISTRICT_CODE": "22627",
-        "LVM_DISTRICT_NAME": "Līvbērzes",
-        "LVM_FORESTRY_CODE": "6",
-        "DISTRICTAREA": null,
-        "MANAGER": "2219"
-      },
-      "bbox": [
-        23.362607827312075, 56.565321860588746, 23.968303350253272,
-        56.835566029932565
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1615,
-        "LVM_DISTRICT_CODE": "22628",
-        "LVM_DISTRICT_NAME": "Klīves",
-        "LVM_FORESTRY_CODE": "6",
-        "DISTRICTAREA": null,
-        "MANAGER": "4741"
-      },
-      "bbox": [
-        23.57366921512109, 56.50462654009707, 24.122965600688314,
-        57.00637470299209
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1617,
-        "LVM_DISTRICT_CODE": "22623",
-        "LVM_DISTRICT_NAME": "Misas",
-        "LVM_FORESTRY_CODE": "6",
-        "DISTRICTAREA": null,
-        "MANAGER": "0839"
-      },
-      "bbox": [
-        23.995873593321207, 56.66394200181305, 24.61381596777007,
-        56.91544540507939
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1618,
-        "LVM_DISTRICT_CODE": "22121",
-        "LVM_DISTRICT_NAME": "Ērģemes",
-        "LVM_FORESTRY_CODE": "1",
-        "DISTRICTAREA": null,
-        "MANAGER": "4859"
-      },
-      "bbox": [
-        25.476200415903744, 57.624929563313245, 26.20574005048786,
-        57.92415630740369
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1619,
-        "LVM_DISTRICT_CODE": "22122",
-        "LVM_DISTRICT_NAME": "Strenču",
-        "LVM_FORESTRY_CODE": "1",
-        "DISTRICTAREA": null,
-        "MANAGER": "0137"
-      },
-      "bbox": [
-        25.542049377025144, 57.52744755977388, 26.287235934831955,
-        57.705417714190226
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1620,
-        "LVM_DISTRICT_CODE": "22225",
-        "LVM_DISTRICT_NAME": "Ventas DK",
-        "LVM_FORESTRY_CODE": "2",
-        "DISTRICTAREA": null,
-        "MANAGER": "4342"
-      },
-      "bbox": [
-        21.97737385624478, 56.61166376904966, 22.504341314277166,
-        57.02195776427047
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1621,
-        "LVM_DISTRICT_CODE": "22725",
-        "LVM_DISTRICT_NAME": "Ventas ZK",
-        "LVM_FORESTRY_CODE": "7",
-        "DISTRICTAREA": null,
-        "MANAGER": "5674"
-      },
-      "bbox": [
-        21.33368715727228, 56.92104637901429, 21.781128615783675,
-        57.379170157628906
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1622,
-        "LVM_DISTRICT_CODE": "22128",
-        "LVM_DISTRICT_NAME": "Pededzes",
-        "LVM_FORESTRY_CODE": "1",
-        "DISTRICTAREA": null,
-        "MANAGER": "1984"
-      },
-      "bbox": [
-        26.318673534376455, 56.9632738452599, 27.10258560942141,
-        57.19680618123577
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1623,
-        "LVM_DISTRICT_CODE": "22127",
-        "LVM_DISTRICT_NAME": "Lejasciema",
-        "LVM_FORESTRY_CODE": "1",
-        "DISTRICTAREA": null,
-        "MANAGER": "0042"
-      },
-      "bbox": [
-        25.996216904880484, 57.075327669593065, 26.709157993050425,
-        57.37659663283567
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1624,
-        "LVM_DISTRICT_CODE": "22123",
-        "LVM_DISTRICT_NAME": "Silvas",
-        "LVM_FORESTRY_CODE": "1",
-        "DISTRICTAREA": null,
-        "MANAGER": "0124"
-      },
-      "bbox": [
-        25.605744850857963, 57.23689526120369, 26.38443993216547,
-        57.55559450200896
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1625,
-        "LVM_DISTRICT_CODE": "22124",
-        "LVM_DISTRICT_NAME": "Sikšņu",
-        "LVM_FORESTRY_CODE": "1",
-        "DISTRICTAREA": null,
-        "MANAGER": "4721"
-      },
-      "bbox": [
-        26.175254475532856, 57.31597591909659, 26.646055307953528,
-        57.593774257367585
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1626,
-        "LVM_DISTRICT_CODE": "22125",
-        "LVM_DISTRICT_NAME": "Melnupes",
-        "LVM_FORESTRY_CODE": "1",
-        "DISTRICTAREA": null,
-        "MANAGER": "4797"
-      },
-      "bbox": [
-        26.54367795191191, 57.17736739449723, 27.223720876100135,
-        57.633290537620084
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1627,
-        "LVM_DISTRICT_CODE": "22231",
-        "LVM_DISTRICT_NAME": "Nīcas",
-        "LVM_FORESTRY_CODE": "2",
-        "DISTRICTAREA": null,
-        "MANAGER": "0157"
-      },
-      "bbox": [
-        20.97067867151645, 56.06915999662804, 21.49162013376412,
-        56.42888798931481
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1628,
-        "LVM_DISTRICT_CODE": "22227",
-        "LVM_DISTRICT_NAME": "Grobiņas",
-        "LVM_FORESTRY_CODE": "2",
-        "DISTRICTAREA": null,
-        "MANAGER": "0149"
-      },
-      "bbox": [
-        20.97599870567579, 56.28885412726275, 21.56257496963412,
-        56.65705645455258
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1629,
-        "LVM_DISTRICT_CODE": "22228",
-        "LVM_DISTRICT_NAME": "Krīvukalna",
-        "LVM_FORESTRY_CODE": "2",
-        "DISTRICTAREA": null,
-        "MANAGER": "0164"
-      },
-      "bbox": [
-        21.47623394340764, 56.29594069645588, 22.065753243119282,
-        56.62422261783151
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1630,
-        "LVM_DISTRICT_CODE": "22229",
-        "LVM_DISTRICT_NAME": "Pampāļu",
-        "LVM_FORESTRY_CODE": "2",
-        "DISTRICTAREA": null,
-        "MANAGER": "3575"
-      },
-      "bbox": [
-        21.939222841009848, 56.395315532485284, 22.563666950482776,
-        56.711185118283865
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1632,
-        "LVM_DISTRICT_CODE": "22224",
-        "LVM_DISTRICT_NAME": "Apriķu",
-        "LVM_FORESTRY_CODE": "2",
-        "DISTRICTAREA": null,
-        "MANAGER": "0166"
-      },
-      "bbox": [
-        21.41690339485948, 56.55565150414689, 22.03895411121191,
-        56.82930843261475
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1633,
-        "LVM_DISTRICT_CODE": "22226",
-        "LVM_DISTRICT_NAME": "Remtes",
-        "LVM_FORESTRY_CODE": "2",
-        "DISTRICTAREA": null,
-        "MANAGER": "3292"
-      },
-      "bbox": [
-        22.074052832885254, 56.682341178020756, 22.836811275912314,
-        56.92340363649193
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1634,
-        "LVM_DISTRICT_CODE": "22221",
-        "LVM_DISTRICT_NAME": "Alsungas",
-        "LVM_FORESTRY_CODE": "2",
-        "DISTRICTAREA": null,
-        "MANAGER": "3957"
-      },
-      "bbox": [
-        21.47252636715603, 56.770842094362514, 22.076015338755244,
-        57.12277807056331
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1635,
-        "LVM_DISTRICT_CODE": "22223",
-        "LVM_DISTRICT_NAME": "Akmensraga",
-        "LVM_FORESTRY_CODE": "2",
-        "DISTRICTAREA": null,
-        "MANAGER": "2030"
-      },
-      "bbox": [
-        21.03802825684515, 56.62441584862578, 21.612763980617235,
-        56.97562357757487
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1637,
-        "LVM_DISTRICT_CODE": "22327",
-        "LVM_DISTRICT_NAME": "Sventes",
-        "LVM_FORESTRY_CODE": "3",
-        "DISTRICTAREA": null,
-        "MANAGER": "0372"
-      },
-      "bbox": [
-        25.8204305401796, 55.67468136474895, 26.978025668492833,
-        56.122798802637696
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1638,
-        "LVM_DISTRICT_CODE": "22326",
-        "LVM_DISTRICT_NAME": "Krāslavas",
-        "LVM_FORESTRY_CODE": "3",
-        "DISTRICTAREA": null,
-        "MANAGER": "0391"
-      },
-      "bbox": [
-        26.560964378530343, 55.7842401167209, 27.972048483019414,
-        56.26169754920367
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1639,
-        "LVM_DISTRICT_CODE": "22325",
-        "LVM_DISTRICT_NAME": "Nīcgales",
-        "LVM_FORESTRY_CODE": "3",
-        "DISTRICTAREA": null,
-        "MANAGER": "4037"
-      },
-      "bbox": [
-        26.15427030970227, 55.84289051143428, 26.782584522246935,
-        56.37435194095964
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1640,
-        "LVM_DISTRICT_CODE": "22324",
-        "LVM_DISTRICT_NAME": "Aknīstes",
-        "LVM_FORESTRY_CODE": "3",
-        "DISTRICTAREA": null,
-        "MANAGER": "3696"
-      },
-      "bbox": [
-        25.64084085982799, 56.01529417359943, 26.355207037881353,
-        56.320278457405344
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1642,
-        "LVM_DISTRICT_CODE": "22322",
-        "LVM_DISTRICT_NAME": "Ābeļu",
-        "LVM_FORESTRY_CODE": "3",
-        "DISTRICTAREA": null,
-        "MANAGER": "0473"
-      },
-      "bbox": [
-        25.62639922521786, 56.2639288973096, 26.284097962145662,
-        56.66540747898291
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1643,
-        "LVM_DISTRICT_CODE": "22321",
-        "LVM_DISTRICT_NAME": "Viesītes",
-        "LVM_FORESTRY_CODE": "3",
-        "DISTRICTAREA": null,
-        "MANAGER": "4723"
-      },
-      "bbox": [
-        25.290131544042257, 56.1344137207069, 25.84501330497291,
-        56.61582151476845
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1644,
-        "LVM_DISTRICT_CODE": "22426",
-        "LVM_DISTRICT_NAME": "Ropažu",
-        "LVM_FORESTRY_CODE": "4",
-        "DISTRICTAREA": null,
-        "MANAGER": "0212"
-      },
-      "bbox": [
-        24.01230534466398, 56.83549614260003, 24.820866214774597,
-        57.2531413263215
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1645,
-        "LVM_DISTRICT_CODE": "22427",
-        "LVM_DISTRICT_NAME": "Vēru",
-        "LVM_FORESTRY_CODE": "4",
-        "DISTRICTAREA": null,
-        "MANAGER": "0224"
-      },
-      "bbox": [
-        24.629452185854028, 56.922896467940284, 25.46468588282096,
-        57.24462969485898
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1646,
-        "LVM_DISTRICT_CODE": "22428",
-        "LVM_DISTRICT_NAME": "Piebalgas",
-        "LVM_FORESTRY_CODE": "4",
-        "DISTRICTAREA": null,
-        "MANAGER": "0233"
-      },
-      "bbox": [
-        25.317464594558977, 56.92845264269467, 26.166185880681986,
-        57.31122464595074
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1649,
-        "LVM_DISTRICT_CODE": "22424",
-        "LVM_DISTRICT_NAME": "Limbažu",
-        "LVM_FORESTRY_CODE": "4",
-        "DISTRICTAREA": null,
-        "MANAGER": "4696"
-      },
-      "bbox": [
-        24.339335189490978, 57.51251678933495, 25.099994673457505,
-        57.87406061771483
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1650,
-        "LVM_DISTRICT_CODE": "22421",
-        "LVM_DISTRICT_NAME": "Salacgrīvas",
-        "LVM_FORESTRY_CODE": "4",
-        "DISTRICTAREA": null,
-        "MANAGER": "3966"
-      },
-      "bbox": [
-        24.33276269519027, 57.748766910158125, 24.891381598167545,
-        57.99045063577991
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1654,
-        "LVM_DISTRICT_CODE": "22525",
-        "LVM_DISTRICT_NAME": "Seces",
-        "LVM_FORESTRY_CODE": "5",
-        "DISTRICTAREA": 58067.164036,
-        "MANAGER": "2918"
-      },
-      "bbox": [
-        25.0641882436817, 56.32275428380315, 25.609625905529402,
-        56.63565697804391
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1655,
-        "LVM_DISTRICT_CODE": "22524",
-        "LVM_DISTRICT_NAME": "Jaunjelgavas",
-        "LVM_FORESTRY_CODE": "5",
-        "DISTRICTAREA": 58677.974488,
-        "MANAGER": "0297"
-      },
-      "bbox": [
-        24.941717327324586, 56.47151137354727, 25.487838368310513,
-        56.75188776021846
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1656,
-        "LVM_DISTRICT_CODE": "22526",
-        "LVM_DISTRICT_NAME": "Vecumnieku",
-        "LVM_FORESTRY_CODE": "5",
-        "DISTRICTAREA": 41773.437003,
-        "MANAGER": "0319"
-      },
-      "bbox": [
-        24.222925512691116, 56.58703367250703, 24.762352492205228,
-        56.78920921713727
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1657,
-        "LVM_DISTRICT_CODE": "22527",
-        "LVM_DISTRICT_NAME": "Bauskas",
-        "LVM_FORESTRY_CODE": "5",
-        "DISTRICTAREA": 145572.761023,
-        "MANAGER": "3717"
-      },
-      "bbox": [
-        23.827934031872793, 56.24890303026592, 24.631298551281336,
-        56.697731039635975
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1658,
-        "LVM_DISTRICT_CODE": "22521",
-        "LVM_DISTRICT_NAME": "Ogres",
-        "LVM_FORESTRY_CODE": "5",
-        "DISTRICTAREA": 107008.754086,
-        "MANAGER": "0296"
-      },
-      "bbox": [
-        24.43258672278687, 56.60440004571691, 25.339321186130405,
-        56.949693037952386
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1659,
-        "LVM_DISTRICT_CODE": "22727",
-        "LVM_DISTRICT_NAME": "Vanemas",
-        "LVM_FORESTRY_CODE": "7",
-        "DISTRICTAREA": null,
-        "MANAGER": "3738"
-      },
-      "bbox": [
-        22.17907481965984, 57.00383746386393, 22.935662546771066,
-        57.28079515377608
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1660,
-        "LVM_DISTRICT_CODE": "22522",
-        "LVM_DISTRICT_NAME": "Kokneses",
-        "LVM_FORESTRY_CODE": "5",
-        "DISTRICTAREA": 137758.624373,
-        "MANAGER": "0317"
-      },
-      "bbox": [
-        25.24486056398152, 56.571686888396385, 25.98163785385955,
-        57.041239194888156
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1661,
-        "LVM_DISTRICT_CODE": "22729",
-        "LVM_DISTRICT_NAME": "Usmas",
-        "LVM_FORESTRY_CODE": "7",
-        "DISTRICTAREA": null,
-        "MANAGER": "4751"
-      },
-      "bbox": [
-        21.606102824818493, 57.08089637107498, 22.231143921483177,
-        57.2932826567859
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1662,
-        "LVM_DISTRICT_CODE": "22621",
-        "LVM_DISTRICT_NAME": "Engures",
-        "LVM_FORESTRY_CODE": "6",
-        "DISTRICTAREA": null,
-        "MANAGER": "0252"
-      },
-      "bbox": [
-        22.757133861199193, 56.91238364834984, 23.379729604942572,
-        57.31624777322282
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1663,
-        "LVM_DISTRICT_CODE": "22728",
-        "LVM_DISTRICT_NAME": "Mērsraga",
-        "LVM_FORESTRY_CODE": "7",
-        "DISTRICTAREA": null,
-        "MANAGER": "0190"
-      },
-      "bbox": [
-        22.682170223948432, 57.15189678719646, 23.146908602983512,
-        57.507858793171636
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1664,
-        "LVM_DISTRICT_CODE": "22724",
-        "LVM_DISTRICT_NAME": "Raķupes",
-        "LVM_FORESTRY_CODE": "7",
-        "DISTRICTAREA": null,
-        "MANAGER": "0074"
-      },
-      "bbox": [
-        22.08813071634217, 57.22715719332453, 22.756085399311615,
-        57.56552880146404
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1665,
-        "LVM_DISTRICT_CODE": "22721",
-        "LVM_DISTRICT_NAME": "Grīņu",
-        "LVM_FORESTRY_CODE": "7",
-        "DISTRICTAREA": null,
-        "MANAGER": "4943"
-      },
-      "bbox": [
-        21.933533336537067, 57.2229095861178, 22.31246231512463,
-        57.539598226896196
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1666,
-        "LVM_DISTRICT_CODE": "22723",
-        "LVM_DISTRICT_NAME": "Rindas",
-        "LVM_FORESTRY_CODE": "7",
-        "DISTRICTAREA": null,
-        "MANAGER": "3857"
-      },
-      "bbox": [
-        21.657032830273877, 57.40559425677846, 22.256421552355597,
-        57.65687272086672
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 3201,
-        "LVM_DISTRICT_CODE": "22523",
-        "LVM_DISTRICT_NAME": "Skaistkalnes",
-        "LVM_FORESTRY_CODE": "5",
-        "DISTRICTAREA": 70829.296107,
-        "MANAGER": "3703"
-      },
-      "bbox": [
-        24.49568401010425, 56.37015993432125, 24.97445820663133,
-        56.7191553636939
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1651,
-        "LVM_DISTRICT_CODE": "22422",
-        "LVM_DISTRICT_NAME": "Rūjienas",
-        "LVM_FORESTRY_CODE": "4",
-        "DISTRICTAREA": null,
-        "MANAGER": "4600"
-      },
-      "bbox": [
-        24.833968443956586, 57.65339203102372, 25.703297552270445,
-        58.085568779059166
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 3202,
-        "LVM_DISTRICT_CODE": "22528",
-        "LVM_DISTRICT_NAME": "Ērberģes",
-        "LVM_FORESTRY_CODE": "5",
-        "DISTRICTAREA": 59718.911923,
-        "MANAGER": "3729"
-      },
-      "bbox": [
-        24.883671130262083, 56.14492503299847, 25.416025893714558,
-        56.52748461884859
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 3859,
-        "LVM_DISTRICT_CODE": "22423",
-        "LVM_DISTRICT_NAME": "Piejūras",
-        "LVM_FORESTRY_CODE": "4",
-        "DISTRICTAREA": null,
-        "MANAGER": "0228"
-      },
-      "bbox": [
-        24.361835619915155, 57.146215409398, 25.090708305650537,
-        57.64960293313434
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 3860,
-        "LVM_DISTRICT_CODE": "22425",
-        "LVM_DISTRICT_NAME": "Valmieras",
-        "LVM_FORESTRY_CODE": "4",
-        "DISTRICTAREA": null,
-        "MANAGER": "4028"
-      },
-      "bbox": [
-        24.785124297765122, 57.27072175289277, 25.76944692281979,
-        57.79206071262425
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 8339,
-        "LVM_DISTRICT_CODE": "22323",
-        "LVM_DISTRICT_NAME": "Preiļu",
-        "LVM_FORESTRY_CODE": "3",
-        "DISTRICTAREA": null,
-        "MANAGER": "0358"
-      },
-      "bbox": [
-        26.082055978713964, 56.05772114120948, 27.144088873303467,
-        56.641455961055655
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 1608,
-        "LVM_DISTRICT_CODE": "22622",
-        "LVM_DISTRICT_NAME": "Kandavas",
-        "LVM_FORESTRY_CODE": "6",
-        "DISTRICTAREA": null,
-        "MANAGER": "5326"
-      },
-      "bbox": [
-        22.442702621298213, 56.79672532182639, 23.170425896032594,
-        57.11269388008612
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 5459,
-        "LVM_DISTRICT_CODE": "22626",
-        "LVM_DISTRICT_NAME": "Tērvetes",
-        "LVM_FORESTRY_CODE": "6",
-        "DISTRICTAREA": null,
-        "MANAGER": "0258"
-      },
-      "bbox": [
-        22.99925651278792, 56.30464515788196, 24.032678298837357,
-        56.61397273165691
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 5460,
-        "LVM_DISTRICT_CODE": "22625",
-        "LVM_DISTRICT_NAME": "Īles",
-        "LVM_FORESTRY_CODE": "6",
-        "DISTRICTAREA": null,
-        "MANAGER": "0243"
-      },
-      "bbox": [
-        22.58407606064041, 56.3515789219916, 23.331711728434517,
-        56.672327994121275
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 5461,
-        "LVM_DISTRICT_CODE": "22624",
-        "LVM_DISTRICT_NAME": "Dobeles",
-        "LVM_FORESTRY_CODE": "6",
-        "DISTRICTAREA": null,
-        "MANAGER": "4639"
-      },
-      "bbox": [
-        22.76089142553116, 56.507684841407155, 23.485039682839414,
-        56.9439784001977
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 5462,
-        "LVM_DISTRICT_CODE": "22230",
-        "LVM_DISTRICT_NAME": "Zvārdes",
-        "LVM_FORESTRY_CODE": "2",
-        "DISTRICTAREA": null,
-        "MANAGER": "4520"
-      },
-      "bbox": [
-        22.288563467993416, 56.38229978239771, 22.865986613178805,
-        56.705850361842074
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 9619,
-        "LVM_DISTRICT_CODE": "22222",
-        "LVM_DISTRICT_NAME": "Rendas",
-        "LVM_FORESTRY_CODE": "2",
-        "DISTRICTAREA": null,
-        "MANAGER": "1967"
-      },
-      "bbox": [
-        21.892234489920387, 56.96465763429021, 22.45923046445456,
-        57.18598355506936
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 12179,
-        "LVM_DISTRICT_CODE": "22629",
-        "LVM_DISTRICT_NAME": "Pierīgas",
-        "LVM_FORESTRY_CODE": "6",
-        "DISTRICTAREA": null,
-        "MANAGER": null
-      },
-      "bbox": [
-        23.253617365600423, 56.761296040588554, 24.213668311031803,
-        57.06688425616199
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 12180,
-        "LVM_DISTRICT_CODE": "22429",
-        "LVM_DISTRICT_NAME": "Gaujas Nacionālais parks",
-        "LVM_FORESTRY_CODE": "4",
-        "DISTRICTAREA": null,
-        "MANAGER": null
-      },
-      "bbox": [
-        24.652900503716626, 57.08143497812748, 25.49549039504616,
-        57.51839610483023
-      ]
-    },
-    {
-      "attributes": {
-        "OBJECTID": 6420,
-        "LVM_DISTRICT_CODE": "22722",
-        "LVM_DISTRICT_NAME": "Zilokalnu",
-        "LVM_FORESTRY_CODE": "7",
-        "DISTRICTAREA": null,
-        "MANAGER": "3673"
-      },
-      "bbox": [
-        22.196263003356062, 57.42684027830463, 22.81472819628913,
-        57.75887148051115
-      ]
-    }
-  ]
-}
+[
+  {
+    "OBJECTID": 1601,
+    "LVM_DISTRICT_CODE": "22827",
+    "LVM_DISTRICT_NAME": "Ludzas",
+    "bbox": [
+      27.48591352185774,
+      56.11520683114655,
+      28.241494003295198,
+      56.738633624838954
+    ]
+  },
+  {
+    "OBJECTID": 1602,
+    "LVM_DISTRICT_CODE": "22825",
+    "LVM_DISTRICT_NAME": "Rēzeknes",
+    "bbox": [
+      26.7694451005907,
+      56.17117464458843,
+      27.723194594413123,
+      56.83081634843681
+    ]
+  },
+  {
+    "OBJECTID": 1603,
+    "LVM_DISTRICT_CODE": "22822",
+    "LVM_DISTRICT_NAME": "Lubānas",
+    "bbox": [
+      26.374467336102068,
+      56.795879091800174,
+      26.991629276047078,
+      57.03254334296882
+    ]
+  },
+  {
+    "OBJECTID": 1604,
+    "LVM_DISTRICT_CODE": "22826",
+    "LVM_DISTRICT_NAME": "Kārsavas",
+    "bbox": [
+      26.92548398172089,
+      56.613188504984876,
+      27.977729126690633,
+      57.10532283227533
+    ]
+  },
+  {
+    "OBJECTID": 1605,
+    "LVM_DISTRICT_CODE": "22821",
+    "LVM_DISTRICT_NAME": "Madonas",
+    "bbox": [
+      25.817418009016293,
+      56.534882556121225,
+      26.923776396079102,
+      57.10206569769267
+    ]
+  },
+  {
+    "OBJECTID": 1606,
+    "LVM_DISTRICT_CODE": "22824",
+    "LVM_DISTRICT_NAME": "Balvu",
+    "bbox": [
+      26.81567395214223,
+      56.82819610567057,
+      27.589082466584227,
+      57.25295841573509
+    ]
+  },
+  {
+    "OBJECTID": 1607,
+    "LVM_DISTRICT_CODE": "22823",
+    "LVM_DISTRICT_NAME": "Žīguru",
+    "bbox": [
+      27.264024939044234,
+      57.07979078012789,
+      27.8704231028725,
+      57.39893862599754
+    ]
+  },
+  {
+    "OBJECTID": 1609,
+    "LVM_DISTRICT_CODE": "22126",
+    "LVM_DISTRICT_NAME": "Mālupes",
+    "bbox": [
+      26.968025667157892,
+      57.178140681727655,
+      27.6433954878683,
+      57.554667776776185
+    ]
+  },
+  {
+    "OBJECTID": 1610,
+    "LVM_DISTRICT_CODE": "22726",
+    "LVM_DISTRICT_NAME": "Mētru",
+    "bbox": [
+      21.517731689249175,
+      57.21965616068898,
+      22.002624289234618,
+      57.525711365142364
+    ]
+  },
+  {
+    "OBJECTID": 1614,
+    "LVM_DISTRICT_CODE": "22627",
+    "LVM_DISTRICT_NAME": "Līvbērzes",
+    "bbox": [
+      23.362607827312075,
+      56.565321860588746,
+      23.968303350253272,
+      56.835566029932565
+    ]
+  },
+  {
+    "OBJECTID": 1615,
+    "LVM_DISTRICT_CODE": "22628",
+    "LVM_DISTRICT_NAME": "Klīves",
+    "bbox": [
+      23.57366921512109,
+      56.50462654009707,
+      24.122965600688314,
+      57.00637470299209
+    ]
+  },
+  {
+    "OBJECTID": 1617,
+    "LVM_DISTRICT_CODE": "22623",
+    "LVM_DISTRICT_NAME": "Misas",
+    "bbox": [
+      23.995873593321207,
+      56.66394200181305,
+      24.61381596777007,
+      56.91544540507939
+    ]
+  },
+  {
+    "OBJECTID": 1618,
+    "LVM_DISTRICT_CODE": "22121",
+    "LVM_DISTRICT_NAME": "Ērģemes",
+    "bbox": [
+      25.476200415903744,
+      57.624929563313245,
+      26.20574005048786,
+      57.92415630740369
+    ]
+  },
+  {
+    "OBJECTID": 1619,
+    "LVM_DISTRICT_CODE": "22122",
+    "LVM_DISTRICT_NAME": "Strenču",
+    "bbox": [
+      25.542049377025144,
+      57.52744755977388,
+      26.287235934831955,
+      57.705417714190226
+    ]
+  },
+  {
+    "OBJECTID": 1620,
+    "LVM_DISTRICT_CODE": "22225",
+    "LVM_DISTRICT_NAME": "Ventas DK",
+    "bbox": [
+      21.97737385624478,
+      56.61166376904966,
+      22.504341314277166,
+      57.02195776427047
+    ]
+  },
+  {
+    "OBJECTID": 1621,
+    "LVM_DISTRICT_CODE": "22725",
+    "LVM_DISTRICT_NAME": "Ventas ZK",
+    "bbox": [
+      21.33368715727228,
+      56.92104637901429,
+      21.781128615783675,
+      57.379170157628906
+    ]
+  },
+  {
+    "OBJECTID": 1622,
+    "LVM_DISTRICT_CODE": "22128",
+    "LVM_DISTRICT_NAME": "Pededzes",
+    "bbox": [
+      26.318673534376455,
+      56.9632738452599,
+      27.10258560942141,
+      57.19680618123577
+    ]
+  },
+  {
+    "OBJECTID": 1623,
+    "LVM_DISTRICT_CODE": "22127",
+    "LVM_DISTRICT_NAME": "Lejasciema",
+    "bbox": [
+      25.996216904880484,
+      57.075327669593065,
+      26.709157993050425,
+      57.37659663283567
+    ]
+  },
+  {
+    "OBJECTID": 1624,
+    "LVM_DISTRICT_CODE": "22123",
+    "LVM_DISTRICT_NAME": "Silvas",
+    "bbox": [
+      25.605744850857963,
+      57.23689526120369,
+      26.38443993216547,
+      57.55559450200896
+    ]
+  },
+  {
+    "OBJECTID": 1625,
+    "LVM_DISTRICT_CODE": "22124",
+    "LVM_DISTRICT_NAME": "Sikšņu",
+    "bbox": [
+      26.175254475532856,
+      57.31597591909659,
+      26.646055307953528,
+      57.593774257367585
+    ]
+  },
+  {
+    "OBJECTID": 1626,
+    "LVM_DISTRICT_CODE": "22125",
+    "LVM_DISTRICT_NAME": "Melnupes",
+    "bbox": [
+      26.54367795191191,
+      57.17736739449723,
+      27.223720876100135,
+      57.633290537620084
+    ]
+  },
+  {
+    "OBJECTID": 1627,
+    "LVM_DISTRICT_CODE": "22231",
+    "LVM_DISTRICT_NAME": "Nīcas",
+    "bbox": [
+      20.97067867151645,
+      56.06915999662804,
+      21.49162013376412,
+      56.42888798931481
+    ]
+  },
+  {
+    "OBJECTID": 1628,
+    "LVM_DISTRICT_CODE": "22227",
+    "LVM_DISTRICT_NAME": "Grobiņas",
+    "bbox": [
+      20.97599870567579,
+      56.28885412726275,
+      21.56257496963412,
+      56.65705645455258
+    ]
+  },
+  {
+    "OBJECTID": 1629,
+    "LVM_DISTRICT_CODE": "22228",
+    "LVM_DISTRICT_NAME": "Krīvukalna",
+    "bbox": [
+      21.47623394340764,
+      56.29594069645588,
+      22.065753243119282,
+      56.62422261783151
+    ]
+  },
+  {
+    "OBJECTID": 1630,
+    "LVM_DISTRICT_CODE": "22229",
+    "LVM_DISTRICT_NAME": "Pampāļu",
+    "bbox": [
+      21.939222841009848,
+      56.395315532485284,
+      22.563666950482776,
+      56.711185118283865
+    ]
+  },
+  {
+    "OBJECTID": 1632,
+    "LVM_DISTRICT_CODE": "22224",
+    "LVM_DISTRICT_NAME": "Apriķu",
+    "bbox": [
+      21.41690339485948,
+      56.55565150414689,
+      22.03895411121191,
+      56.82930843261475
+    ]
+  },
+  {
+    "OBJECTID": 1633,
+    "LVM_DISTRICT_CODE": "22226",
+    "LVM_DISTRICT_NAME": "Remtes",
+    "bbox": [
+      22.074052832885254,
+      56.682341178020756,
+      22.836811275912314,
+      56.92340363649193
+    ]
+  },
+  {
+    "OBJECTID": 1634,
+    "LVM_DISTRICT_CODE": "22221",
+    "LVM_DISTRICT_NAME": "Alsungas",
+    "bbox": [
+      21.47252636715603,
+      56.770842094362514,
+      22.076015338755244,
+      57.12277807056331
+    ]
+  },
+  {
+    "OBJECTID": 1635,
+    "LVM_DISTRICT_CODE": "22223",
+    "LVM_DISTRICT_NAME": "Akmensraga",
+    "bbox": [
+      21.03802825684515,
+      56.62441584862578,
+      21.612763980617235,
+      56.97562357757487
+    ]
+  },
+  {
+    "OBJECTID": 1637,
+    "LVM_DISTRICT_CODE": "22327",
+    "LVM_DISTRICT_NAME": "Sventes",
+    "bbox": [
+      25.8204305401796,
+      55.67468136474895,
+      26.978025668492833,
+      56.122798802637696
+    ]
+  },
+  {
+    "OBJECTID": 1638,
+    "LVM_DISTRICT_CODE": "22326",
+    "LVM_DISTRICT_NAME": "Krāslavas",
+    "bbox": [
+      26.560964378530343,
+      55.7842401167209,
+      27.972048483019414,
+      56.26169754920367
+    ]
+  },
+  {
+    "OBJECTID": 1639,
+    "LVM_DISTRICT_CODE": "22325",
+    "LVM_DISTRICT_NAME": "Nīcgales",
+    "bbox": [
+      26.15427030970227,
+      55.84289051143428,
+      26.782584522246935,
+      56.37435194095964
+    ]
+  },
+  {
+    "OBJECTID": 1640,
+    "LVM_DISTRICT_CODE": "22324",
+    "LVM_DISTRICT_NAME": "Aknīstes",
+    "bbox": [
+      25.64084085982799,
+      56.01529417359943,
+      26.355207037881353,
+      56.320278457405344
+    ]
+  },
+  {
+    "OBJECTID": 1642,
+    "LVM_DISTRICT_CODE": "22322",
+    "LVM_DISTRICT_NAME": "Ābeļu",
+    "bbox": [
+      25.62639922521786,
+      56.2639288973096,
+      26.284097962145662,
+      56.66540747898291
+    ]
+  },
+  {
+    "OBJECTID": 1643,
+    "LVM_DISTRICT_CODE": "22321",
+    "LVM_DISTRICT_NAME": "Viesītes",
+    "bbox": [
+      25.290131544042257,
+      56.1344137207069,
+      25.84501330497291,
+      56.61582151476845
+    ]
+  },
+  {
+    "OBJECTID": 1644,
+    "LVM_DISTRICT_CODE": "22426",
+    "LVM_DISTRICT_NAME": "Ropažu",
+    "bbox": [
+      24.01230534466398,
+      56.83549614260003,
+      24.820866214774597,
+      57.2531413263215
+    ]
+  },
+  {
+    "OBJECTID": 1645,
+    "LVM_DISTRICT_CODE": "22427",
+    "LVM_DISTRICT_NAME": "Vēru",
+    "bbox": [
+      24.629452185854028,
+      56.922896467940284,
+      25.46468588282096,
+      57.24462969485898
+    ]
+  },
+  {
+    "OBJECTID": 1646,
+    "LVM_DISTRICT_CODE": "22428",
+    "LVM_DISTRICT_NAME": "Piebalgas",
+    "bbox": [
+      25.317464594558977,
+      56.92845264269467,
+      26.166185880681986,
+      57.31122464595074
+    ]
+  },
+  {
+    "OBJECTID": 1649,
+    "LVM_DISTRICT_CODE": "22424",
+    "LVM_DISTRICT_NAME": "Limbažu",
+    "bbox": [
+      24.339335189490978,
+      57.51251678933495,
+      25.099994673457505,
+      57.87406061771483
+    ]
+  },
+  {
+    "OBJECTID": 1650,
+    "LVM_DISTRICT_CODE": "22421",
+    "LVM_DISTRICT_NAME": "Salacgrīvas",
+    "bbox": [
+      24.33276269519027,
+      57.748766910158125,
+      24.891381598167545,
+      57.99045063577991
+    ]
+  },
+  {
+    "OBJECTID": 1654,
+    "LVM_DISTRICT_CODE": "22525",
+    "LVM_DISTRICT_NAME": "Seces",
+    "bbox": [
+      25.0641882436817,
+      56.32275428380315,
+      25.609625905529402,
+      56.63565697804391
+    ]
+  },
+  {
+    "OBJECTID": 1655,
+    "LVM_DISTRICT_CODE": "22524",
+    "LVM_DISTRICT_NAME": "Jaunjelgavas",
+    "bbox": [
+      24.941717327324586,
+      56.47151137354727,
+      25.487838368310513,
+      56.75188776021846
+    ]
+  },
+  {
+    "OBJECTID": 1656,
+    "LVM_DISTRICT_CODE": "22526",
+    "LVM_DISTRICT_NAME": "Vecumnieku",
+    "bbox": [
+      24.222925512691116,
+      56.58703367250703,
+      24.762352492205228,
+      56.78920921713727
+    ]
+  },
+  {
+    "OBJECTID": 1657,
+    "LVM_DISTRICT_CODE": "22527",
+    "LVM_DISTRICT_NAME": "Bauskas",
+    "bbox": [
+      23.827934031872793,
+      56.24890303026592,
+      24.631298551281336,
+      56.697731039635975
+    ]
+  },
+  {
+    "OBJECTID": 1658,
+    "LVM_DISTRICT_CODE": "22521",
+    "LVM_DISTRICT_NAME": "Ogres",
+    "bbox": [
+      24.43258672278687,
+      56.60440004571691,
+      25.339321186130405,
+      56.949693037952386
+    ]
+  },
+  {
+    "OBJECTID": 1659,
+    "LVM_DISTRICT_CODE": "22727",
+    "LVM_DISTRICT_NAME": "Vanemas",
+    "bbox": [
+      22.17907481965984,
+      57.00383746386393,
+      22.935662546771066,
+      57.28079515377608
+    ]
+  },
+  {
+    "OBJECTID": 1660,
+    "LVM_DISTRICT_CODE": "22522",
+    "LVM_DISTRICT_NAME": "Kokneses",
+    "bbox": [
+      25.24486056398152,
+      56.571686888396385,
+      25.98163785385955,
+      57.041239194888156
+    ]
+  },
+  {
+    "OBJECTID": 1661,
+    "LVM_DISTRICT_CODE": "22729",
+    "LVM_DISTRICT_NAME": "Usmas",
+    "bbox": [
+      21.606102824818493,
+      57.08089637107498,
+      22.231143921483177,
+      57.2932826567859
+    ]
+  },
+  {
+    "OBJECTID": 1662,
+    "LVM_DISTRICT_CODE": "22621",
+    "LVM_DISTRICT_NAME": "Engures",
+    "bbox": [
+      22.757133861199193,
+      56.91238364834984,
+      23.379729604942572,
+      57.31624777322282
+    ]
+  },
+  {
+    "OBJECTID": 1663,
+    "LVM_DISTRICT_CODE": "22728",
+    "LVM_DISTRICT_NAME": "Mērsraga",
+    "bbox": [
+      22.682170223948432,
+      57.15189678719646,
+      23.146908602983512,
+      57.507858793171636
+    ]
+  },
+  {
+    "OBJECTID": 1664,
+    "LVM_DISTRICT_CODE": "22724",
+    "LVM_DISTRICT_NAME": "Raķupes",
+    "bbox": [
+      22.08813071634217,
+      57.22715719332453,
+      22.756085399311615,
+      57.56552880146404
+    ]
+  },
+  {
+    "OBJECTID": 1665,
+    "LVM_DISTRICT_CODE": "22721",
+    "LVM_DISTRICT_NAME": "Grīņu",
+    "bbox": [
+      21.933533336537067,
+      57.2229095861178,
+      22.31246231512463,
+      57.539598226896196
+    ]
+  },
+  {
+    "OBJECTID": 1666,
+    "LVM_DISTRICT_CODE": "22723",
+    "LVM_DISTRICT_NAME": "Rindas",
+    "bbox": [
+      21.657032830273877,
+      57.40559425677846,
+      22.256421552355597,
+      57.65687272086672
+    ]
+  },
+  {
+    "OBJECTID": 3201,
+    "LVM_DISTRICT_CODE": "22523",
+    "LVM_DISTRICT_NAME": "Skaistkalnes",
+    "bbox": [
+      24.49568401010425,
+      56.37015993432125,
+      24.97445820663133,
+      56.7191553636939
+    ]
+  },
+  {
+    "OBJECTID": 1651,
+    "LVM_DISTRICT_CODE": "22422",
+    "LVM_DISTRICT_NAME": "Rūjienas",
+    "bbox": [
+      24.833968443956586,
+      57.65339203102372,
+      25.703297552270445,
+      58.085568779059166
+    ]
+  },
+  {
+    "OBJECTID": 3202,
+    "LVM_DISTRICT_CODE": "22528",
+    "LVM_DISTRICT_NAME": "Ērberģes",
+    "bbox": [
+      24.883671130262083,
+      56.14492503299847,
+      25.416025893714558,
+      56.52748461884859
+    ]
+  },
+  {
+    "OBJECTID": 3859,
+    "LVM_DISTRICT_CODE": "22423",
+    "LVM_DISTRICT_NAME": "Piejūras",
+    "bbox": [
+      24.361835619915155,
+      57.146215409398,
+      25.090708305650537,
+      57.64960293313434
+    ]
+  },
+  {
+    "OBJECTID": 3860,
+    "LVM_DISTRICT_CODE": "22425",
+    "LVM_DISTRICT_NAME": "Valmieras",
+    "bbox": [
+      24.785124297765122,
+      57.27072175289277,
+      25.76944692281979,
+      57.79206071262425
+    ]
+  },
+  {
+    "OBJECTID": 8339,
+    "LVM_DISTRICT_CODE": "22323",
+    "LVM_DISTRICT_NAME": "Preiļu",
+    "bbox": [
+      26.082055978713964,
+      56.05772114120948,
+      27.144088873303467,
+      56.641455961055655
+    ]
+  },
+  {
+    "OBJECTID": 1608,
+    "LVM_DISTRICT_CODE": "22622",
+    "LVM_DISTRICT_NAME": "Kandavas",
+    "bbox": [
+      22.442702621298213,
+      56.79672532182639,
+      23.170425896032594,
+      57.11269388008612
+    ]
+  },
+  {
+    "OBJECTID": 5459,
+    "LVM_DISTRICT_CODE": "22626",
+    "LVM_DISTRICT_NAME": "Tērvetes",
+    "bbox": [
+      22.99925651278792,
+      56.30464515788196,
+      24.032678298837357,
+      56.61397273165691
+    ]
+  },
+  {
+    "OBJECTID": 5460,
+    "LVM_DISTRICT_CODE": "22625",
+    "LVM_DISTRICT_NAME": "Īles",
+    "bbox": [
+      22.58407606064041,
+      56.3515789219916,
+      23.331711728434517,
+      56.672327994121275
+    ]
+  },
+  {
+    "OBJECTID": 5461,
+    "LVM_DISTRICT_CODE": "22624",
+    "LVM_DISTRICT_NAME": "Dobeles",
+    "bbox": [
+      22.76089142553116,
+      56.507684841407155,
+      23.485039682839414,
+      56.9439784001977
+    ]
+  },
+  {
+    "OBJECTID": 5462,
+    "LVM_DISTRICT_CODE": "22230",
+    "LVM_DISTRICT_NAME": "Zvārdes",
+    "bbox": [
+      22.288563467993416,
+      56.38229978239771,
+      22.865986613178805,
+      56.705850361842074
+    ]
+  },
+  {
+    "OBJECTID": 9619,
+    "LVM_DISTRICT_CODE": "22222",
+    "LVM_DISTRICT_NAME": "Rendas",
+    "bbox": [
+      21.892234489920387,
+      56.96465763429021,
+      22.45923046445456,
+      57.18598355506936
+    ]
+  },
+  {
+    "OBJECTID": 12179,
+    "LVM_DISTRICT_CODE": "22629",
+    "LVM_DISTRICT_NAME": "Pierīgas",
+    "bbox": [
+      23.253617365600423,
+      56.761296040588554,
+      24.213668311031803,
+      57.06688425616199
+    ]
+  },
+  {
+    "OBJECTID": 12180,
+    "LVM_DISTRICT_CODE": "22429",
+    "LVM_DISTRICT_NAME": "Gaujas Nacionālais parks",
+    "bbox": [
+      24.652900503716626,
+      57.08143497812748,
+      25.49549039504616,
+      57.51839610483023
+    ]
+  },
+  {
+    "OBJECTID": 6420,
+    "LVM_DISTRICT_CODE": "22722",
+    "LVM_DISTRICT_NAME": "Zilokalnu",
+    "bbox": [
+      22.196263003356062,
+      57.42684027830463,
+      22.81472819628913,
+      57.75887148051115
+    ]
+  }
+]
